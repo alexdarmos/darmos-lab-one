@@ -59,6 +59,8 @@ a {
   position: absolute;
   left: 10px;
   top: 45px;
+  border-left: solid 2px #ccc;
+  padding-left: 10px;
 }
 
 .container-right {
